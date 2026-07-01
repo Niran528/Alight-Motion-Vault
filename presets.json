@@ -1,0 +1,47 @@
+[
+  {
+    "id": "text-v53",
+    "title": "Text V53",
+    "author": "ASC Creative",
+    "category": "text",
+    "thumbnail": "",
+    "xmlUrl": "https://example.com/replace-with-your-drive-or-github-link.xml",
+    "directLink": "https://alight.link/replace-with-your-share-link"
+  },
+  {
+    "id": "text-v52",
+    "title": "Text V52",
+    "author": "ASC Creative",
+    "category": "text",
+    "thumbnail": "",
+    "xmlUrl": "",
+    "directLink": ""
+  },
+  {
+    "id": "shake-01",
+    "title": "Punch Shake",
+    "author": "YourName",
+    "category": "shake",
+    "thumbnail": "",
+    "xmlUrl": "",
+    "directLink": ""
+  },
+  {
+    "id": "video-glow",
+    "title": "Neon Glow Transition",
+    "author": "YourName",
+    "category": "video",
+    "thumbnail": "",
+    "xmlUrl": "",
+    "directLink": ""
+  },
+  {
+    "id": "color-cinematic",
+    "title": "Cinematic Teal & Orange",
+    "author": "ZainOP",
+    "category": "color",
+    "thumbnail": "",
+    "xmlUrl": "",
+    "directLink": ""
+  }
+]

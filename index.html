@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>Motion Vault — Alight Motion Presets</title>
+<meta name="description" content="A free library of Alight Motion presets — video, shake, text and color effects." />
+<meta name="theme-color" content="#0b0d12" />
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json" />
+<link rel="icon" href="icons/icon-192.png" />
+<link rel="apple-touch-icon" href="icons/icon-192.png" />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- Top bar -->
+<header class="topbar">
+  <button class="icon-btn" id="backBtn" aria-label="Back" hidden>
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <div class="brand" id="brandLogo">
+    <span class="brand-word">Motion</span><span class="brand-word grad">Vault</span>
+  </div>
+  <button class="icon-btn" id="searchBtn" aria-label="Search">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4.3-4.3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+  </button>
+</header>
+
+<!-- Search bar (hidden by default) -->
+<div class="search-wrap" id="searchWrap" hidden>
+  <input type="text" id="searchInput" placeholder="Search presets…" autocomplete="off" />
+</div>
+
+<!-- Category tabs -->
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-cat="video">Video</button>
+  <button class="tab" data-cat="shake">Shake</button>
+  <button class="tab" data-cat="text">Text</button>
+  <button class="tab" data-cat="color">Color</button>
+</nav>
+
+<!-- List view -->
+<main id="listView" class="list-view"></main>
+
+<!-- Detail view -->
+<section id="detailView" class="detail-view" hidden></section>
+
+<!-- Empty / loading states -->
+<div id="statusMsg" class="status-msg" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
