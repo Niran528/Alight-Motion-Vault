@@ -1,33 +1,24 @@
 [
   {
-    "id": "text-v53",
-    "title": "Text V53",
-    "author": "ASC Creative",
+    "id": "text-v01",
+    "title": "Text Animation",
+    "author": "Zynn东",
     "category": "text",
-    "thumbnail": "",
-    "xmlUrl": "https://example.com/replace-with-your-drive-or-github-link.xml",
-    "directLink": "https://alight.link/replace-with-your-share-link"
-  },
-  {
-    "id": "text-v52",
-    "title": "Text V52",
-    "author": "ASC Creative",
-    "category": "text",
-    "thumbnail": "",
-    "xmlUrl": "",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/text-thumbnail.png",
+    "xmlUrl": "https://drive.google.com/file/d/1wdZsxgd_s0Vp5Rlxnsl6cn6Cgz_kf9mP/view?usp=drive_link",
     "directLink": ""
   },
   {
-    "id": "shake-01",
-    "title": "Punch Shake",
-    "author": "YourName",
+    "id": "shake-v01",
+    "title": "Shake Pack",
+    "author": "Zynn东",
     "category": "shake",
-    "thumbnail": "",
-    "xmlUrl": "",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/shake-thumbnail.png",
+    "xmlUrl": "https://drive.google.com/file/d/1caNHusID1FwUyruwoZRk_YzhF280OZ8R/view?usp=drive_link",
     "directLink": ""
   },
   {
-    "id": "video-glow",
+    "id": "toji",
     "title": "Toji Vs Gojo - Round 1 - BEAST MXDE [AMV/Edit]",
     "author": "Zynn东",
     "category": "project-file",
@@ -63,12 +54,48 @@
     "directLink": ""
   },
   {
-    "id": "color-cinematic",
-    "title": "Cinematic Teal & Orange",
-    "author": "ZainOP",
+    "id": "maki-gojo",
+    "title": "Gojo x Makima [AMV/Edit] 4k",
+    "author": "Zynn东",
+    "category": "project-file",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/maki.jpg",
+    "xmlUrl": "https://drive.google.com/file/d/1Eqrh-eAYIX5mBED1goeYxmMnhfq_fWMK/view?usp=drive_link",
+    "directLink": ""
+  },
+  {
+    "id": "jinwoo-beru",
+    "title": "The Real King "Jinwoo" [AMV/Edit]",
+    "author": "Zynn东",
+    "category": "project-file",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/beru.jpg",
+    "xmlUrl": "https://drive.google.com/file/d/1Z-uuO0a7g8wjJVJFCmWst57n6pyFek1k/view?usp=drive_link",
+    "directLink": ""
+  }, 
+  {
+    "id": "rengoku",
+    "title": "Rengoku Kyoujurou - Demon Slayer - FREE SHOW [Edit/AMV]",
+    "author": "Zynn东",
+    "category": "project-file",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/rengoku.jpg",
+    "xmlUrl": "https://drive.google.com/file/d/1__WmoFvD1xZrDoRXtyauCrXPaSGUDNOZ/view?usp=drive_link",
+    "directLink": ""
+  },
+  {
+    "id": "sao",
+    "title": "Solo Leveling - Sung Jin Woo - Sao Paulo [Edit/AMV]",
+    "author": "Zynn东",
+    "category": "project-file",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/sao.jpg",
+    "xmlUrl": "https://drive.google.com/file/d/16ANpGjw9tmGLakoiNeg1Dqf70lalOZSC/view?usp=drive_link",
+    "directLink": ""
+  },
+  {
+    "id": "color-correction",
+    "title": "Color Correction Pack",
+    "author": "Zynn东",
     "category": "color",
-    "thumbnail": "",
-    "xmlUrl": "",
+    "thumbnail": "https://raw.githubusercontent.com/Niran528/Alight-Motion-Vault/main/thumbnails/CC-thumbnail.png",
+    "xmlUrl": "https://drive.google.com/file/d/1cdETy2mFiLTF64myWfgwJBPb0utyMA_F/view?usp=drive_link",
     "directLink": ""
   }
 ]
